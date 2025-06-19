@@ -1,0 +1,2 @@
+# Professional-Internship-Showcase-Portal-Responsive-UI-with-HTML-CSS
+This project demonstrates effective use of HTML5 and CSS3 to create:  A fully responsive grid layout  Elegant shadowed cards with hover effects  Minimalist color palette for a clean UI  High-quality clickable buttons styled for real-world websites  This page can serve as part of a personal portfolio or company internship listing portal.
